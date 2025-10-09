@@ -12,7 +12,7 @@ I am a passionate cybersecurity specialist skilled in Digital Forensics, Threat 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Monitoring & Alert Triage                | <a href="https://google.com">Splunk Analysis</a>|
+| SIEM Monitoring & Alert Triage                | <a href="https://github.com/cybertimm/Detection-Lab">Splunk Analysis</a>|
 | Incident Detection & Escalation               | <a href="https://google.com"> SOC Workflow Simulation</a>|
 | Threat Intelligence & IOC Analysis            | Threat Intel Practitioner|
 | Log Correlation & Dashboarding                | Splunk Detection Lab|
@@ -64,7 +64,7 @@ I am a passionate cybersecurity specialist skilled in Digital Forensics, Threat 
 
 ## 🛡️ Projects  
 
-- [🔍 Detection & Alert Workflow](README.md)  
+- 🔍 <a href="https://github.com/cybertimm/Detection-Lab">Detection Lab</a>  
 - [🧠 Threat Intelligence & IOC Mapping](https://github.com/yourusername/threat-intel-ioc-mapping)  
 - [📧 Phishing Simulation & Email Header Analysis](https://github.com/yourusername/phishing-simulation-analysis)  
 - [📡 Network Attack Detection & Log Correlation](https://github.com/yourusername/network-attack-detection)  
