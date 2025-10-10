@@ -65,7 +65,8 @@ I am a passionate cybersecurity specialist skilled in Digital Forensics, Threat 
 ## 🛡️ Projects  
 
 - 🔍 <a href="https://github.com/cybertimm/Detection-Lab">Detection Lab</a>  
-- [🧠 Threat Intelligence & IOC Mapping](https://github.com/yourusername/threat-intel-ioc-mapping)  
+- [🧠 Threat Intelligence & IOC Mapping](https://github.com/yourusername/threat-intel-ioc-mapping)
+- < a href="https://github.com/cybertimm/Passive-Reconnaissance-for-Threat-Intelligence-Development">Passive Reconnaisance for Threat Intel. Development</a>
 - [📧 Phishing Simulation & Email Header Analysis](https://github.com/yourusername/phishing-simulation-analysis)  
 - [📡 Network Attack Detection & Log Correlation](https://github.com/yourusername/network-attack-detection)  
 - [🪄 SOC Automation Scripts](https://github.com/yourusername/soc-automation-scripts)  
