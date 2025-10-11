@@ -87,7 +87,7 @@ I am a passionate cybersecurity specialist skilled in Digital Forensics, Threat 
 
 - [🛡️ SOC Detection & Alert Workflow ](https://github.com/yourusername/amdari-soc-detection-alert)  
 - [🧠 Threat Intelligence & IOC Mapping](https://github.com/yourusername/threat-intel-ioc-mapping)  
-- [📧 Phishing Simulation & Email Header Analysis](https://github.com/yourusername/phishing-simulation-analysis)  
+- [📧 Phishing Simulation & Email Header Analysis](https://github.com/cybertimm/Passive-Reconnaissance-for-Threat-Intelligence-Development-/edit/main/README.md)  
 - [📡 Network Attack Detection & Log Correlation](https://github.com/yourusername/network-attack-detection)  
 - [💾 Digital Forensics Case Study – Disk & Memory Analysis](https://github.com/yourusername/digital-forensics-case-study)  
 - [📊 Splunk Detection Dashboard](https://github.com/yourusername/splunk-detection-dashboard)  
