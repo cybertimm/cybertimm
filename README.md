@@ -14,7 +14,7 @@ I am a passionate cybersecurity specialist skilled in Digital Forensics, Threat 
 |-----------------------------------------------|----------------------------|
 | SIEM Monitoring & Alert Triage                | <a href="https://github.com/cybertimm/Detection-Lab">Splunk Analysis</a>|
 | Incident Detection & Escalation               | <a href="https://google.com"> SOC Workflow Simulation</a>|
-| Threat Intelligence & IOC Analysis            | Threat Intel Practitioner|
+| Threat Intelligence & IOC Analysis            | <a href="https://github.com/cybertimm/Threat-Intelligence/blob/main/README.md"> Threat Intel Practitioner </a>|
 | Log Correlation & Dashboarding                | Splunk Detection Lab|
 | Network & Endpoint Forensics                  | Disk and Memory Analysis Projects|
 | Vulnerability Identification                  | Internal Threat Assessment Report|
