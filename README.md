@@ -18,6 +18,7 @@ I am a passionate cybersecurity specialist skilled in Digital Forensics, Threat 
 | Log Correlation & Dashboarding                | Splunk Detection Lab|
 | Network & Endpoint Forensics                  | Disk and Memory Analysis Projects|
 | Vulnerability Identification                  | Internal Threat Assessment Report|
+| SIEM Log Monitoring and detection.            | <a href="https://github.com/cybertimm/SIEM-Log-Monitoring-Threat-Detection1">Splunk Log Monitoring and Detection</a>
 
 ## 🔧 Tools & Technologies
 
