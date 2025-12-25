@@ -1,4 +1,4 @@
-# 👋 Oluwadamilola Timothy Ayeni  
+# 👋Hello, I'm Oluwadamilola Timothy Ayeni  
 ### Cybersecurity Analyst | SOC Professional | Digital Forensics | Splunk Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwadamilola-ayeni-858536258)
