@@ -75,6 +75,10 @@ Hands-on Cybersecurity Analyst with strong experience in SOC operations, SIEM mo
 - **[Phishing Email & Malware Analysis](https://github.com/cybertimm/Phishing-Email-Malware-Analysis/blob/main/README.md)**
   Email header analysis, attachment inspection, sandboxing, and threat assessment.
 
+ - **[Phishing Email SMTP Header Analysis](https://github.com/cybertimm/Phishing-Email-SMTP-Header-Analysis-/blob/main/incident-report-email-phishing.md)**
+  Email header analysis, SMTP forensics, phishing detection, IOC extraction, and threat assessment.
+
+
 
 ### 🌐 Network Security & IDS
 - **[IDS Deployment & Packet Analysis](https://github.com/cybertimm/IDS-Deployment-Packet-Analysis/blob/main/README.md)**  
